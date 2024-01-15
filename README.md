@@ -27,6 +27,7 @@ Kullanılan Malzemeler:
 Devre Kurulumu:
 
 Arduino UNO, LDR'nin değerini analog olarak okumak için kullanıldı. LDR, ortam ışığı seviyesine bağlı olarak direnç değerini değiştirir. Bu değişiklik, Arduino UNO tarafından okunur. LDR, iki dirençle birlikte bir gerilim bölücü devresi oluşturularak Arduino'ya bağlandı. Böylece analog sinyal, Arduino tarafından okunabilir hale getirildi.
+
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/8ea501d9-8d66-489f-b2d7-d375bdbc1737)
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/14ff64c0-1a8a-4a34-bc0d-caefa32300fd)
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/9d205e69-972c-414d-8549-cc138e5a4251)
