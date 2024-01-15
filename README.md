@@ -2,25 +2,30 @@ Amaç:
 Bu projenin amacı, ortam ışık seviyesini algılayarak ortam karanlık olduğunda bir lambayı otomatik olarak açmak ve ışık seviyesi arttığında lambayı kapatmak için bir akıllı aydınlatma sistemi oluşturmaktır. Bu sistem, enerji verimliliği sağlayarak kullanıcının ışık ayarlamasıyla ilgili ihtiyaçları otomatik olarak karşılamayı hedeflemektedir.
 
 Kullanılan Malzemeler:
+
 •	Arduino UNO: Projenin merkezi işlem birimi olarak kullanıldı.
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/2e6f7109-63c0-42c5-86af-fb0fceabc207)
-•	Breadboard: Devre elemanlarının bağlantılarını sağlamak için kullanıldı.
+•	Breadboard:
+Devre elemanlarının bağlantılarını sağlamak için kullanıldı.
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/fd495b6e-8ba3-47fb-8c79-9cea81273c11)
 
 •	LED (Light Emitting Diode): Projenin anahtarlama özelliğini temsil etmek için kullanıldı.
 
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/8d06adc2-b961-43c8-8149-3ce19a8298cf)
 
-•	LDR (Light Dependent Resistor): Ortam ışık seviyesini algılamak için kullanıldı.
+•	LDR (Light Dependent Resistor):
+Ortam ışık seviyesini algılamak için kullanıldı.
 
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/3fd8be1f-bb26-426e-9736-e68eec613ef9)
 
-•	2 adet 330 Ohm Direnç: LDR'nin devreye entegre edilmesi için kullanıldı.
+•	2 adet 330 Ohm Direnç: 
+LDR'nin devreye entegre edilmesi için kullanıldı.
 
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/f38f3694-4e27-420d-8a38-fcd808116fc0)
 ![image](https://github.com/batuhanbartu/Akilli-aydinlatma/assets/96166551/801e844e-5626-4273-ad78-50a140f25f93)
 
-•	Erkek-Erkek Jumper Kablolar: Bağlantıların yapılmasında kullanıldı.
+•	Erkek-Erkek Jumper Kablolar:
+Bağlantıların yapılmasında kullanıldı.
 
 
 
